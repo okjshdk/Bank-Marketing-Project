@@ -19,7 +19,7 @@
 | Chỉ sổ | Kết quả |
 |-----------|----------|
 | **Model Accuracy** | 83,4% |
-| **ROC-AUC** | 0.796 |
+| **ROC-AUC** | 79.6% |
 | **Recall (khách gửi tiền)** | 0.61 |
 | **Precision (khách gửi tiền)** | 0.36 |
 
