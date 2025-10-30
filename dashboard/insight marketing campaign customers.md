@@ -8,17 +8,20 @@
 - Nhóm khách hàng **độc thân** chiếm ~ 29% với tỉ lệ thành công là 14%.
 - Nhóm khách hàng **đã kết hôn** chiếm ~ 61% với tỉ lệ thành công là 10,16%.
 - Nhóm khách hàng **đã ly hôn** chiếm ~ 11% với tỉ lệ thành công là 10,32%.
+  
 → Ưu tiên nhóm độc thân trong các chiến dịch kế tiếp để tối ưu hiệu quả.
 
 ### 3. Công việc
 - **Student** và **Retired** là hai nhóm hiệu quả nhất với tỉ lệ chuyển đổi 31.43% và 25.23%.
 - Ngoài ra, **admin, technician, management** đạt hiệu quả ổn định (~11–13%).
+  
 → Nhóm Student và Retired nên được ưu tiên trong chiến dịch tiếp theo
 
 ### 4. Giáo dục
 - Trình độ **University degree** đạt hiệu quả tốt với tỉ lệ chuyển đổi là 13.72%.
 - **High school** và **Professional course** ở mức trung bình (~11%).
 - Cần chú ý nhóm **Unknown** với tỉ lệ chuyển đổi là 14.5%.
+  
 → Hiệu quả hơn khi trình độ học vấn tăng.
 
 ### 5. Nhà cửa
