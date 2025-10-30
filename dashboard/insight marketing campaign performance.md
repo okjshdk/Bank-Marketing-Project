@@ -27,11 +27,11 @@
 → Có thể khi liên hệ ít khách thì chất lượng cuộc gọi tốt hơn, dẫn đến tỉ lệ thành công cao hơn.
 
 ### 5. Tỉ lệ chuyển đổi theo các ngày trong tuần
-- **Tỉ lệ chuyển đổi** cao nhất trong khoảng từ thứ 3 đến thứ 5 (11.67% →12.12%)  
+- **Tỉ lệ chuyển đổi** cao nhất trong khoảng từ thứ 3 đến thứ 5 (11.67% → 12.12%)  
 
 ### 6. Key Takeaways
 - Tối ưu 2 cuộc gọi đầu.  
 - Ưu tiên kênh Cellular.  
 - Giữ quy mô liên hệ vừa phải để đảm bảo chất lượng.  
-- Liên hệ vào Thứ 3–Thứ 5 để đạt hiệu quả cao nhất.  
+- Liên hệ vào thứ 3 –> 5 để đạt hiệu quả cao nhất.  
 
