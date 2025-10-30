@@ -2,17 +2,20 @@
 
 ## Mục tiêu
 - Phân tích **hiệu quả chiến dịch** và **nhóm khách hàng tiềm năng**.
-- Xây dựng mô hình **dự đoán khả năng khách hàng gửi tiền**.
+- Xây dựng mô hình học máy **dự đoán khả năng khách hàng gửi tiền**.
 
 ---
 
-## Kết quả chính
+## Kết quả phân tích
 
 | Chỉ tiêu | Kết quả |
 |-----------|----------|
 | **Khách hàng liên hệ** | ~ 41.000 |
 | **Thành công** | 4.640 |
 | **Tỉ lệ chuyển đổi gốc** | 11,27% |
+
+## Kết quả mô hình
+
 | **Model Accuracy** | 83,4% |
 | **ROC-AUC** | 0.796 |
 | **Recall (khách gửi tiền)** | 0.61 |
