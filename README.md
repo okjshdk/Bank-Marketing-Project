@@ -16,6 +16,7 @@
 
 ## Kết quả mô hình
 
+|-----------|----------|
 | **Model Accuracy** | 83,4% |
 | **ROC-AUC** | 0.796 |
 | **Recall (khách gửi tiền)** | 0.61 |
