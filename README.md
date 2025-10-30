@@ -16,6 +16,7 @@
 
 ## Kết quả mô hình
 
+| Chỉ sổ | Kết quả |
 |-----------|----------|
 | **Model Accuracy** | 83,4% |
 | **ROC-AUC** | 0.796 |
