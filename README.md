@@ -4,6 +4,7 @@
 - Phân tích **hiệu quả chiến dịch** và **nhóm khách hàng tiềm năng**.
 - Xây dựng mô hình học máy **dự đoán khả năng khách hàng gửi tiền**.
 
+## Tools: Power BI, Python
 ---
 
 ## Kết quả phân tích
